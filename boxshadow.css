@@ -1,0 +1,7 @@
+p{
+    background-color: chocolate;
+    box-shadow: 10px 10px 10px rgb(161, 118, 68), -10px 10px 10px rgb(161, 118, 68);
+    width: 500px;
+    padding: 20px;
+    margin: 200px;
+}
